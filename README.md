@@ -4,4 +4,4 @@
 * Bu alan içerisinde üç farklı özellik vardır bunlar apartmanlar, bloklar ve gelir giderlerdir. 
 * Kredi kart ile gelir gider ödemesi yapabilir.
 * Clean Architecture mimarisiyle kurulmuştur.
-* 
+
